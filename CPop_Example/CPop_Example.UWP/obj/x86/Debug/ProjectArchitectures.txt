@@ -1,0 +1,2 @@
+C:\AAJ Projects\CPop_Example\CPop_Example\CPop_Example.UWP\CPop_Example.UWP.csproj;x86
+C:\AAJ Projects\CPop_Example\CPop_Example\CPop_Example\CPop_Example.csproj;neutral

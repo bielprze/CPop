@@ -1,0 +1,2 @@
+C:\AAJ Projects\CPop_Example\CPop_Example\CPop_Example.WinPhone\CPop_Example.WinPhone.csproj;neutral
+C:\AAJ Projects\CPop_Example\CPop_Example\CPop_Example\CPop_Example.csproj;neutral

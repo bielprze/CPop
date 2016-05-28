@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:calvagna="clr-namespace:Calvagna.CPop;assembly=Calvagna.CPop"
+             Padding="0,60,0,0"
+             x:Class="CPop_Example.MainView">
+
+  <StackLayout VerticalOptions="Start" HorizontalOptions="Center">
+
+    <Label Text="{Binding Text}"  />
+
+    <calvagna:CPop Dialog="{Binding Dialog}"
+                   ShowDialog="{Binding ShowDialog}"
+                   BackgroundColor="{Binding BackColor}"
+                   BorderColor="{Binding BorderColor}" />
+
+    <Button x:Name="btnShow" Text="Show modal" />
+  
+  </StackLayout>
+
+</ContentPage>
